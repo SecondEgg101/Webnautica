@@ -1,0 +1,14 @@
+{
+    "Id": "webnautica",
+    "PackPath": "webnautica.pck",
+    "Dependencies": [
+        "Sulayre.Lure"
+    ],
+    "Metadata": {
+        "Name": "Webnautica",
+        "Author": "SecondEgg",
+        "Description": "Adds creatures from Subnautica as catchable fish.",
+        "Version": "1.0.0",
+        "Homepage": ""
+    }
+}
