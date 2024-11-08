@@ -2,8 +2,6 @@
 
 A mod for WebFishing adding 51 catchable fish and items from Subnautica!
 
-Most are ocean fish, with a few junk items, and one rain exclusive.
-
 ## Additions
 
 <details>
@@ -11,57 +9,57 @@ Most are ocean fish, with a few junk items, and one rain exclusive.
 
 | Name | Tier | Loot Table |
 | --- | --- | --- |
-| Peeper | 1 | Ocean |
-| Boomerang | 1 | Ocean |
-| Bladderfish | 1 | Ocean |
-| Garryfish | 1 | Ocean |
-| Hoopfish | 1 | Ocean |
-| Hoverfish | 1 | Ocean |
-| Spadefish | 1 | Ocean |
-| Reginald | 1 | Ocean |
-| Holefish | 1 | Ocean |
-| Eyeye | 1 | Ocean |
-| Rabbit Ray | 1 | Ocean |
-| Biter | 1 | Ocean |
-| Cave Crawler | 1 | Ocean |
-| Skyray | 1 | Rain |
-| Metal Salvage | 1 | Trash |
-| Creepvine Seed Cluster | 1 | Trash |
-| Floater | 2 | Ocean |
-| Gasopod | 2 | Ocean |
-| Stalker | 2 | Ocean |
-| Shuttlebug | 2 | Ocean |
-| Crashfish | 2 | Ocean |
-| Sand Shark | 2 | Ocean |
-| Jellyray | 2 | Ocean |
-| Boneshark | 2 | Ocean |
-| Ghostray | 2 | Ocean |
-| Rockgrub | 2 | Ocean |
-| Blighter | 2 | Ocean |
-| Crabsnake | 2 | Ocean |
-| Oculus | 2 | Ocean |
-| Spinefish | 2 | Ocean |
-| Magmarang | 2 | Ocean |
-| Red Eyeye | 2 | Ocean |
-| Ampeel | 2 | Ocean |
-| Blood Crawler | 2 | Ocean |
-| Bleeder | 2 | Ocean |
-| Mesmer | 2 | Ocean |
-| River Prowler | 2 | Ocean |
-| Lava Larva | 2 | Ocean |
-| Crimson Ray | 3 | Ocean |
-| Crabsquid | 3 | Ocean |
-| Lava Lizard | 3 | Ocean |
-| Reefback | 3 | Ocean |
-| Reaper Leviathan | 3 | Ocean |
-| Warper | 3 | Ocean |
-| Ghost Leviathan | 3 | Ocean |
-| Sea Treader | 3 | Ocean |
-| Sea Dragon | 3 | Ocean |
-| Cuddlefish | 3 | Ocean (Rare) |
-| Sea Emperor | 3 | Ocean (Rare) |
-| Peeper Leviathan | 3 | Ocean (Rare) |
-| Precursor Tablet | 3 | Trash (Rare) |
+| Peeper | 1 | ocean |
+| Bladderfish | 1 | ocean |
+| Hoopfish | 1 | ocean |
+| Rabbit Ray | 1 | ocean |
+| Floater | 1 | ocean |
+| Crashfish | 1 | ocean |
+| Shuttlebug | 1 | ocean |
+| Eyeye | 1 | ocean |
+| Gasopod | 2 | ocean |
+| Sand Shark | 2 | ocean |
+| Boneshark | 2 | ocean |
+| Oculus | 2 | ocean |
+| Jellyray | 2 | ocean |
+| Ghostray | 2 | ocean |
+| Ampeel | 2 | ocean |
+| Red Eyeye | 2 | ocean |
+| Lava Larva | 2 | ocean |
+| Crimson Ray | 2 | ocean |
+| Crabsquid | 3 | ocean |
+| Reefback | 3 | ocean |
+| Reaper Leviathan | 3 | ocean |
+| Ghost Leviathan | 3 | ocean |
+| Sea Treader | 3 | ocean |
+| Sea Dragon | 3 | ocean |
+| Sea Emperor | 3 | ocean |
+| Peeper Leviathan | 3 | ocean |
+| Boomerang | 1 | lake |
+| Garryfish | 1 | lake |
+| Hoverfish | 1 | lake |
+| Reginald | 1 | lake |
+| Spadefish | 1 | lake |
+| Holefish | 1 | lake |
+| Biter | 1 | lake |
+| Cave Crawler | 1 | lake |
+| Stalker | 2 | lake |
+| Spinefish | 2 | lake |
+| Blighter | 2 | lake |
+| Blood Crawler | 2 | lake |
+| Crabsnake | 2 | lake |
+| Magmarang | 2 | lake |
+| Bleeder | 2 | lake |
+| Rockgrub | 2 | lake |
+| Mesmer | 2 | lake |
+| River Prowler | 2 | lake |
+| Lava Lizard | 3 | lake |
+| Skyray | 1 | rain |
+| Warper | 2 | rain |
+| Cuddlefish | 3 | rain |
+| Creepvine Seed Cluster | 1 | trash |
+| Metal Salvage | 1 | trash |
+| Precursor Tablet | 3 | trash |
 
 </details>
 
@@ -72,6 +70,11 @@ Most are ocean fish, with a few junk items, and one rain exclusive.
 [Lure](https://github.com/Sulayre/WebfishingLure)
 
 ## Changelog
+
+V1.0.1
+<ul>
+  <li>Moved some fish from the ocean pool to the lake pool, and changed some stats</li>
+</ul>
 
 V1.0.0
 <ul>
