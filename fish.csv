@@ -1,0 +1,52 @@
+item_name,item_description,catch_blurb,loot_table,tier,catch_difficulty,average_size,loot_weight,sell_value,sell_multiplier,obtain_xp,generate_worth,rare,alive
+Creepvine Seed Cluster,Junk,Agh! Caught a snag!,water_trash,0,1,75,1,5,1,30,FALSE,FALSE,FALSE
+Metal Salvage,Junk,If only I had a fabricator...,water_trash,0,1,100,1,5,1,30,FALSE,FALSE,FALSE
+Precursor Tablet,Ancient!,You got any games on this?,water_trash,2,1,40,0.15,100,1,100,FALSE,TRUE,FALSE
+Peeper,Herbivore,Jeepers! Creepers! Where'd you get those peepers?,ocean,0,1.5,45,0.75,5,1,30,TRUE,FALSE,TRUE
+Bladderfish,Herbivore,Better to fish in the sink than to sink in the fish.,ocean,0,1.5,50,0.75,5,1,30,TRUE,FALSE,TRUE
+Hoopfish,Herbivore,Sounds like a lot of-,ocean,0,1.5,45,0.75,5,1,30,TRUE,FALSE,TRUE
+Rabbit Ray,Herbivore,bnuuy :3,ocean,0,2,100,0.65,8,1,35,TRUE,FALSE,TRUE
+Floater,Parasite,Floater? I hardly know 'er!,ocean,0,2.5,50,0.65,8,1,40,TRUE,FALSE,TRUE
+Crashfish,Carnivore,THROW IT BACK! THROW IT BAAAAACK!,ocean,0,3,55,0.6,10,1,40,TRUE,FALSE,TRUE
+Shuttlebug,Scavenger,Not much of a cuddlebug.,ocean,0,3,65,0.55,12,1,40,TRUE,FALSE,TRUE
+Eyeye,Herbivore,"Eyeye, captain!",ocean,0,1,40,0.5,15,1,35,TRUE,FALSE,TRUE
+Gasopod,Herbivore,"You smelt it, you dealt it.",ocean,1,3,175,0.6,15,1,40,TRUE,FALSE,TRUE
+Sand Shark,Carnivore,Not to be confused with the land shark.,ocean,1,3.5,175,0.55,18,1,40,TRUE,FALSE,TRUE
+Boneshark,Carnivore,It must've been pretty bonely down there.,ocean,1,4,175,0.5,20,1,45,TRUE,FALSE,TRUE
+Oculus,Herbivore,Don't challenge it to a staring contest.,ocean,1,2.5,45,0.5,20,1,40,TRUE,FALSE,TRUE
+Jellyray,Herbivore,U jelly?,ocean,1,3,150,0.5,20,1,40,TRUE,FALSE,TRUE
+Ghostray,Herbivore,How am I holding this?,ocean,1,3.5,175,0.45,22,1,45,TRUE,FALSE,TRUE
+Ampeel,Carnivore,A shocking catch!,ocean,1,4.5,250,0.4,25,1,50,TRUE,FALSE,TRUE
+Red Eyeye,Herbivore,"Need some eyedrops, little guy?",ocean,1,3.5,40,0.4,25,1,40,TRUE,FALSE,TRUE
+Lava Larva,Parasite,Someday it'll grow up into a lava butterfly.,ocean,1,4,90,0.35,28,1,50,TRUE,FALSE,TRUE
+Crimson Ray,Herbivore,This ray is rad! (And red!),ocean,1,4.5,175,0.35,28,1,70,TRUE,FALSE,TRUE
+Crabsquid,Carnivore,"Like a crabsnake, but a squid.",ocean,2,5,350,0.35,30,1,75,TRUE,FALSE,TRUE
+Reefback,Leviathan!,It's got the weight of the world on it's shoulders.,ocean,2,5.5,2000,0.12,30,1,60,TRUE,FALSE,TRUE
+Reaper Leviathan,Leviathan!,What a grim-looking fella!,ocean,2,6,1500,0.11,30,1,60,TRUE,FALSE,TRUE
+Ghost Leviathan,Leviathan!,A huge fish to fill the void in your heart.,ocean,2,6.5,2500,0.1,30,1,60,TRUE,FALSE,TRUE
+Sea Treader,Leviathan!,Don't tread on sea!,ocean,2,6,2200,0.09,30,1,60,TRUE,FALSE,TRUE
+Sea Dragon,Leviathan!,Can often be found guarding it's sea treasure from sea knights.,ocean,2,7,2500,0.08,30,1,60,TRUE,FALSE,TRUE
+Sea Emperor,Leviathan!,Even the king salmon bows in reverence.,ocean,2,7.5,2700,0.05,40,1,60,TRUE,TRUE,TRUE
+Peeper Leviathan,...,dear god...,ocean,2,7.5,2700,0.03,50,1,100,TRUE,TRUE,TRUE
+Boomerang,Herbivore,"I'd catch and release, but it would come right back!",lake,0,1.5,45,0.75,5,1,30,TRUE,FALSE,TRUE
+Garryfish,Herbivore,Can Garry fish a garryfish?,lake,0,1.5,45,0.75,5,1,30,TRUE,FALSE,TRUE
+Hoverfish,Herbivore,Doesn't look very airborne to me.,lake,0,1.5,45,0.75,5,1,30,TRUE,FALSE,TRUE
+Reginald,Herbivore,A fancy name for a not-so-fancy fish.,lake,0,1.5,50,0.75,5,1,30,TRUE,FALSE,TRUE
+Spadefish,Herbivore,"Not to call a spade a spade, but...",lake,0,1.5,50,0.75,5,1,30,TRUE,FALSE,TRUE
+Holefish,Herbivore,The holy grail of fish.,lake,0,1,40,0.7,6,1,35,TRUE,FALSE,TRUE
+Biter,Carnivore,Biter? I hardly know 'er!,lake,0,1.75,40,0.65,8,1,35,TRUE,FALSE,TRUE
+Cave Crawler,Scavenger,Named for the fact that it crawls in caves.,lake,0,2,75,0.6,10,1,40,TRUE,FALSE,TRUE
+Stalker,Carnivore,Stalker? I hardly know 'er!,lake,1,3.5,175,0.6,15,1,40,TRUE,FALSE,TRUE
+Spinefish,Herbivore,I've got some real backbone catching this!,lake,1,2.5,45,0.55,18,1,40,TRUE,FALSE,TRUE
+Blighter,Carnivore,Blighter? I hardly know 'er!,lake,1,3.5,40,0.5,20,1,45,TRUE,FALSE,TRUE
+Blood Crawler,Scavenger,Named for the fact that it crawls in... blood? Huh?,lake,1,4,85,0.4,25,1,50,TRUE,FALSE,TRUE
+Crabsnake,Carnivore,"Like a crabsquid, but a snake.",lake,1,4.5,250,0.4,25,1,50,TRUE,FALSE,TRUE
+Magmarang,Herbivore,Magma rang? I think they've got the wrong number.,lake,1,3.5,45,0.4,25,1,40,TRUE,FALSE,TRUE
+Bleeder,Parasite,Bleeder? I hardly know 'er!,lake,1,3.5,40,0.35,28,1,50,TRUE,FALSE,TRUE
+Rockgrub,Scavenger,This grub rocks!,lake,1,3,10,0.35,28,1,50,TRUE,FALSE,TRUE
+Mesmer,Carnivore,So... pretty...,lake,1,4,45,0.3,30,1,55,TRUE,FALSE,TRUE
+River Prowler,Carnivore,"Wait, this is the ocean! (this will make more sense in a future update when it's actually in the ocean)",lake,1,5,250,0.3,30,1,55,TRUE,FALSE,TRUE
+Lava Lizard,Carnivore,I must be a lava wizard!,lake,2,5,175,0.2,50,1,80,TRUE,FALSE,TRUE
+Skyray,Herbivore,What's this doing in the water?,rain,0,4,60,1,20,1,100,TRUE,FALSE,TRUE
+Warper,Carnivore,Warper? I hardly know 'er!,rain,1,6.5,150,0.5,50,1,80,TRUE,FALSE,TRUE
+Cuddlefish,Adorable!,Your new best friend :),rain,2,1,55,0.2,100,1,100,TRUE,TRUE,TRUE
